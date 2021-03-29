@@ -11,7 +11,7 @@ const TableHeader = () => {
       </tr>
     </thead>
   );
-}; // Add TableHeader arrow function here
+};
 
 const TableBody = () => {
   return (
@@ -30,7 +30,7 @@ const TableBody = () => {
       </tr>
     </tbody>
   );
-}; // Add TableBody arrow function here
+};
 
 class Table extends Component {
   render() {
